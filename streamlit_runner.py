@@ -46,9 +46,3 @@ with open(fname_to_run) as f:
     filebody = f.read()
 
 exec(filebody, {})
-
-# for i in fnames:
-#     print(i[i.index("demo")+5:-3])
-
-for i in only_names:
-    print(i)
