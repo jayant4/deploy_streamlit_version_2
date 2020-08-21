@@ -1,0 +1,4 @@
+scipy==1.5.2
+numpy==1.18.1
+streamlit==0.64.0
+
